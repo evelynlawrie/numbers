@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Evelyn Lawrie 
+2. Student ID: 2364909
+3. Email: lawrie@chapman.edu
+4. Class: CPSC298-03
 5. Assignment: numbers 
 
 ## Application Purpose
